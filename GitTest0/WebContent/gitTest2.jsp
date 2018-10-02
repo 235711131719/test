@@ -8,6 +8,6 @@
 </head>
 <body>
 gitTest2.jsp
-workspace2
+github
 </body>
 </html>
